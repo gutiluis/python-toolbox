@@ -77,12 +77,6 @@ Install the project in editable mode:
 python -m pip install -e .
 ```
 
-Run the test suite:
-
-```bash
-pytest
-```
-
 ## Design Principles
 
 * Small, focused utilities
