@@ -3,7 +3,7 @@ requires = ["setuptools>=80"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "python-toolbox"
+name = "pythonToolbox"
 version = "0.1.0"
 description = "Small, reusable Python tools and utilities for scripting, automation, and development."
 readme = "README.md"
@@ -21,3 +21,4 @@ Issues = "https://github.com/gutiluis/python-toolbox/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
