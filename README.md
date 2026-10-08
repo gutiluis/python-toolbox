@@ -95,7 +95,7 @@ pytest
 * Clear interfaces
 * No unnecessary abstractions
 
-The toolbox is intended for utilities that are useful across multiple projects rather than code tied to a particular application.
+A collection of small, reusable Python utilities for scripting, automation, and development. The package is distributed through PyPI and can be installed used across projects.
 
 ## Status
 
