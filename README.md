@@ -11,7 +11,7 @@ python-toolbox/
 ├── bin/             # Executable Python tools
 ├── src/
 │   └── toolbox/     # Reusable Python modules
-├── tests/           # pytest tests and unittest tests
+├── tests/           # pytest tests unittest
 ├── docs/            # Documentation
 ├── pyproject.toml   # Project configuration
 ├── README.md
